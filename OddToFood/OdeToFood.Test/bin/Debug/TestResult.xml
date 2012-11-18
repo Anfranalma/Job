@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\OddToFood\OdeToFood.Test\bin\Debug\OdeToFood.Test.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-11-16" time="16:25:44">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="WIN-FMULEJGM4BQ" user="Administrator" user-domain="WIN-FMULEJGM4BQ" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\OddToFood\OdeToFood.Test\bin\Debug\OdeToFood.Test.dll" executed="True" result="Success" success="True" time="0.031" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="OdeToFood" executed="True" result="Success" success="True" time="0.016" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.016" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="HomeControllerIndexTest" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                <results>
+                  <test-case name="OdeToFood.Test.HomeControllerIndexTest.Puts_Message_In_ViewBag" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
